@@ -3,7 +3,7 @@
         "version": "1.0.0",
         "author": "shiggy.py",
         "name": "Yami",
-        "updater": "https:\/\/raw.githubusercontent.com\/rennpy\/yami-theme\/main\/yami-theme.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/rennpy\/yami-aliucord-theme\/main\/yami-theme.json"
     },
     "background": {},
     "fonts": {
