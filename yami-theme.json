@@ -2,7 +2,8 @@
     "manifest": {
         "version": "1.0.0",
         "author": "shiggy.py",
-        "name": "Yami"
+        "name": "Yami",
+        "updater": "https:\/\/raw.githubusercontent.com\/rennpy\/yami-theme\/main\/yami-theme.json"
     },
     "background": {},
     "fonts": {
